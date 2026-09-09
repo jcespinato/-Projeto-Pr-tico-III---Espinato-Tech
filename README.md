@@ -21,7 +21,7 @@ Site acadêmico criado do zero com HTML, CSS e JavaScript.
 5. Selecione a branch **main** e a pasta **/(root)** e salve.
 6. Aguarde a publicação.
 
-Para o usuário `jcespinato`, mantendo exatamente esse nome de repositório, o endereço esperado será:
+
 (https://jcespinato.github.io/-Projeto-Pr-tico-III---Espinato-Tech/)
 
 Projeto desenvolvido por João Carlos de Souza Espinato, 2026.
